@@ -1,5 +1,5 @@
 # Sentiment_Analysis_VADER_vs_Roberta
-A comparison study between NLTKs VADER Sentiment Scoring and Roberta Pre-trained Model
+This is a comparison study between two different approaches used for sentiment analysis. NLTKs VADER and Roberta pre-trained model.
 
 
 # VADER Seniment Scoring
